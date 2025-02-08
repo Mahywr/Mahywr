@@ -1,7 +1,7 @@
 Hi !!!! My name is Mahyar Ashrafian 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in UK.
+🌍  I am a Software Developer based in UK.
 <br/>
 
 ### Skills
